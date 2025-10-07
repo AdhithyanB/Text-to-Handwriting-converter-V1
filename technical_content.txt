@@ -1,0 +1,16 @@
+Machine Learning Pipeline Steps:
+
+1. Data Collection and Preprocessing
+   - Clean and normalize input data
+   - Handle missing values appropriately
+   - Feature engineering and selection
+
+2. Model Training and Validation
+   - Split data into training/testing sets
+   - Choose appropriate algorithms
+   - Cross-validation for robustness
+
+3. Performance Evaluation
+   - Accuracy metrics calculation
+   - Confusion matrix analysis
+   - Model optimization techniques

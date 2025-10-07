@@ -1,0 +1,9 @@
+The Pythagorean theorem states that in a right triangle, the square of the hypotenuse equals the sum of squares of the other two sides.
+
+Formula: a² + b² = c²
+
+This fundamental principle has applications in:
+- Architecture and construction
+- Navigation and GPS systems
+- Computer graphics and game development
+- Engineering calculations
