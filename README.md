@@ -140,19 +140,7 @@ ultra_accurate_handwriting_converter_improved/
 │   └── ...
 └── fonts/              # Custom fonts directory
     └── README.md
-```
 
-## 🔄 Version History
-
-- **v2.0** (Current) - Major handwriting quality improvements
-- **v1.0** - Initial release
-
-## 💻 System Requirements
-
-- **Python**: 3.7 or higher  
-- **RAM**: 4GB minimum (8GB recommended)
-- **Storage**: 100MB for dependencies
-- **Internet**: Required for initial setup only
 
 ## 🎓 Sample Text Ideas
 
