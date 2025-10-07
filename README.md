@@ -1,4 +1,4 @@
-# Ultra Accurate Handwriting Converter - Improved Edition
+# Handwriting Converter 
 
 🎯 **Major Update**: Enhanced letter formation, improved legibility, and natural handwriting flow!
 
