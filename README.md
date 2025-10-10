@@ -1,12 +1,8 @@
 # Handwriting Converter 
 
-🎯 **Major Update**: Enhanced letter formation, improved legibility, and natural handwriting flow!
-
 Transform your digital text into **realistic, legible handwriting** that looks genuinely human-written.
 
-## ✨ What's New in v2.0
-
-### 🔥 Major Improvements
+### 🔥 Improvements
 - **Much More Legible Letters**: Complete redesign of letter paths for better readability
 - **Natural Flow & Connectivity**: Letters now connect naturally like real handwriting  
 - **Smooth Stroke Generation**: Advanced curve smoothing for realistic pen strokes
@@ -14,7 +10,7 @@ Transform your digital text into **realistic, legible handwriting** that looks g
 - **Style Presets**: Quick-select professional handwriting styles
 - **High-Quality Output**: 300 DPI export for crisp, clear results
 
-### 🎨 New Features
+### 🎨 Features
 - **Style Presets**: Clean & Neat, Casual Writing, Elegant Script, Quick Notes
 - **Enhanced Controls**: Fine-tune every aspect of your handwriting
 - **Better Punctuation**: Improved dots, commas, and special characters
@@ -35,25 +31,11 @@ Transform your digital text into **realistic, legible handwriting** that looks g
    ```
 5. **Open your browser** to `http://localhost:8501`
 
-## 🎯 Perfect Results in 3 Steps
+## 🎯Decent Results in 3 Steps
 
 1. **Choose a Style**: Start with "Clean & Neat" for best results
 2. **Enter Your Text**: Type or paste your content in the sidebar
 3. **Generate & Download**: Click generate and download your beautiful handwriting!
-
-## 🆚 Before vs After
-
-**Previous Version Issues:**
-- Disconnected, blocky letters ❌
-- Poor readability ❌  
-- Unnatural spacing ❌
-- Limited customization ❌
-
-**New Improved Version:**
-- Smooth, connected letters ✅
-- Excellent legibility ✅
-- Natural spacing and flow ✅
-- Professional style presets ✅
 
 ## 🎨 Style Presets Guide
 
@@ -146,12 +128,12 @@ ultra_accurate_handwriting_converter_improved/
 
 **Test Legibility:**
 ```
-The quick brown fox jumps over the lazy dog.
+The dog named tiger bravo
 ```
 
 **Business Letter:**
 ```
-Dear Mr. Johnson,
+Dear Mr. Adhi,
 Thank you for your inquiry about our services.
 We look forward to working with you.
 Best regards,
@@ -163,17 +145,6 @@ Don't forget:
 - Pick up groceries
 - Call mom
 - Finish project report
+- Sleep
 ```
 
-## 🤝 Support
-
-If you encounter any issues:
-1. Check the troubleshooting section above
-2. Try the "Clean & Neat" preset with default settings
-3. Ensure your text isn't too long (under 200 words)
-
----
-
-**Built with ❤️ for realistic handwriting generation**
-
-*Ultra Accurate Handwriting Converter v2.0 - Making digital text beautifully human*
